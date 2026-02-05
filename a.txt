@@ -1,1 +1,10 @@
-kadugvhcb
+Project Overview
+
+HitPractice is a practice-based project designed to help users improve their skills through hands-on exercises.
+
+This repository contains the core implementation along with supporting files that demonstrate how the project works.
+
+Purpose of this project:
+- To provide practice-based learning
+- To demonstrate basic project structure
+- To help beginners understand implementation flow
