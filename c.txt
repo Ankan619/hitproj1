@@ -1,1 +1,2 @@
 jksdgh jcbjuewvhj bkcjbhvjb
+Git is a distributed version control system that allows multiple developers to track changes in source code over time. It helps in managing project history, collaborating with others, and safely experimenting with new features using branches. Git stores snapshots of your project, so you can revert, merge, or compare changes easily. Platforms like GitHub and GitLab use Git to host repositories and enable open-source contributions.
