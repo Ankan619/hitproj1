@@ -1,0 +1,9 @@
+
+• Fork the repository: https://github.com/Ankan619/HitPractice.git
+• Clone your forked repository to your local system
+• Create a new branch with a meaningful name
+• Make valid improvements (documentation, scripts, examples, or enhancements)
+• Commit changes with proper commit messages
+• Push changes to your forked repository
+• Create a Pull Request to the original repository
+• Submission proof: Pull Request URL
