@@ -1,0 +1,2 @@
+A, B, C, D walked into a bar.
+The bartender said, “Sorry, we don’t serve unfinished sequences".
