@@ -1,1 +1,6 @@
-jhbdvehfvejlfvbewuf
+How to Use the Project
+
+1. Clone the repository to your local system.
+2. Navigate to the project directory.
+3. Follow the instructions provided in the README file.
+4. Run the project using the appropriate command or script.
