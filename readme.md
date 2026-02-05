@@ -1,5 +1,4 @@
-# HitProject--Assignment Submission by Sudip Chel
-
+# HitProject--Assignment Submission
 
 A practice repository for learning Git, GitHub workflows, and open-source contribution basics.
 
@@ -92,3 +91,9 @@ This project is open source and available for educational purposes.
 ---
 
 **Happy Learning! 🎉**
+
+
+<!--  Documented By 
+Name : Sudip Chel
+Github : https://github.com/Sudip-Chel
+>
