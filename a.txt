@@ -1,1 +1,7 @@
-kadugvhcb
+My name is Lukman Ali
+<br>
+I am a student of computer science at Haldia Institute Of Technology.
+<br>
+I love coding and exploring new technologies.
+<br>
+I am passionate about web development and Cyber Security.

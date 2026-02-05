@@ -1,1 +1,8 @@
-jksdgh jcbjuewvhj bkcjbhvjb
+I have also made some recent edits to the files hitproj1/a.txt and hitproj1/b.txt.
+The changes include adding new lines of text that provide more information about myself in a.txt and details about my final year project in b.txt.
+<br>
+The edits enhance the content by elaborating on my interests and the objectives of my project.
+The files now contain the following updated content:
+<br>
+In hitproj1/a.txt:
+My name is Lukman Ali

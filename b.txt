@@ -1,1 +1,8 @@
-jhbdvehfvejlfvbewuf
+My final Year project is focused on Spam Email Detection System
+    using Machine Learning techniques.
+    <br>
+    The project aims to classify emails as spam or not spam based on their content.
+    <br>
+    It utilizes various algorithms to improve the accuracy of detection.
+    The project also includes a user-friendly interface for easy interaction.
+    
