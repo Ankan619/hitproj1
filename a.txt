@@ -1,7 +1,11 @@
-My name is Lukman Ali
-<br>
-I am a student of computer science at Haldia Institute Of Technology.
-<br>
-I love coding and exploring new technologies.
-<br>
-I am passionate about web development and Cyber Security.
+Spam Email Detection System Using Machine Learning, BERT, and SHAP aims to accurately identify unwanted and harmful emails.
+Email spam, phishing, and scam attacks are increasing rapidly, making traditional keyword-based filters unreliable.
+BERT understands the context and meaning of email text, improving the detection of smart and disguised spam.
+SHAP provides clear explanations of why the model marks an email as spam, increasing trust and transparency.
+The system reduces false positives so genuine emails don’t get mistakenly blocked.
+It also catches advanced phishing attempts that normal filters usually miss.
+As cyber threats evolve, intelligent spam detection becomes a future necessity.
+Organizations, students, and professionals need secure and safe email communication.
+The model can be scaled for real-world mail servers and cloud applications.
+Overall, the system delivers a smarter, explainable, and future-ready solution for email security.
+

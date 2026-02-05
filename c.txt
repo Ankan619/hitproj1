@@ -1,8 +1,39 @@
-I have also made some recent edits to the files hitproj1/a.txt and hitproj1/b.txt.
-The changes include adding new lines of text that provide more information about myself in a.txt and details about my final year project in b.txt.
-<br>
-The edits enhance the content by elaborating on my interests and the objectives of my project.
-The files now contain the following updated content:
-<br>
-In hitproj1/a.txt:
-My name is Lukman Ali
+Future enhancement of the system focuses on integrating BERT, a powerful deep-learning language model.
+
+BERT understands sentence meaning, context, and hidden intent far better than traditional ML models.
+
+This allows the system to catch advanced phishing emails, deceptive wording, and context-based spam.
+
+SHAP will also be added to make the model transparent and explain why each email is classified as spam.
+
+This explainability increases trust and helps organizations understand model decisions.
+
+Combining BERT with SHAP improves both accuracy and interpretability.
+
+Existing models like Logistic Regression, SVM, and Random Forest rely mostly on keyword-level patterns.
+
+These traditional models struggle with complex sentences and cleverly disguised spam.
+
+Their performance depends heavily on feature engineering such as TF-IDF.
+
+Meanwhile, BERT learns features automatically, reducing manual effort and improving detection quality.
+
+Compared to classical ML, BERT handles long emails, phishing-style content, and semantic tricks better.
+
+SHAP explanations also provide an advantage over older systems that behave like “black boxes.”
+
+Overall, the enhanced system becomes more robust, context-aware, and future-proof.
+
+With BERT, false positives decrease, so fewer genuine emails get wrongly blocked.
+
+With SHAP, security teams can understand why a prediction was made, which improves decision-making.
+
+This combination makes the spam detection model suitable for enterprise-level deployment.
+
+The project proves that blending traditional ML with modern deep learning gives the best results.
+
+It also shows that explainability is now as important as accuracy in security systems.
+
+The enhanced system provides higher precision, better adaptability, and stronger protection against evolving threats.
+
+In conclusion, the project delivers a reliable, intelligent, and transparent email security solution ready for real-world use.
