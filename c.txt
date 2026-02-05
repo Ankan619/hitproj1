@@ -1,1 +1,5 @@
-jksdgh jcbjuewvhj bkcjbhvjb
+
+This file contains improved contents from c.txt
+Git maintains a complete history of changes.
+It improves collaboration and code safety.
+Git works well with platforms like GitHub.
