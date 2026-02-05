@@ -1,2 +1,5 @@
 
 This file contains contents from b.txt to understand the project better
+Git provides branching and merging features.
+It helps manage different versions of a project.
+Git is widely used in DevOps workflows.

@@ -1,2 +1,6 @@
 
 This file contains contents from a.txt
+Git is a distributed version control system.
+It helps track changes in source code.
+Git allows multiple developers to work together efficiently.
+
