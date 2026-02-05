@@ -1,1 +1,2 @@
-jhbdvehfvejlfvbewuf
+
+This file contains contents from b.txt to understand the project better
