@@ -1,1 +1,2 @@
-kadugvhcb
+This is a.txt file
+--changed by Krishnedu
