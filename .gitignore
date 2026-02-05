@@ -1,0 +1,6 @@
+# Ignore System and Temp Files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.vscode/
