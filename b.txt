@@ -1,1 +1,20 @@
-jhbdvehfvejlfvbewuf
+1. Training
+
+Training is the phase where the machine learning model actually “learns” from the data.
+The algorithm studies many emails, their patterns, and whether they are spam or not.
+During training, the model adjusts itself so it can correctly recognize spam-like behavior.
+Basically, training = teaching the model using labeled examples.
+
+2. Testing
+Testing is the phase where we check how well the model performs on new, unseen emails.
+The test data was never shown during training, so it tells us real-world performance.
+This helps us measure accuracy, F1 score, and how good the model is at avoiding mistakes.
+Testing = seeing if the model actually learned the right skills.
+
+3. Feature Engineering
+
+Feature engineering means transforming raw email text into meaningful information the model can understand.
+This includes converting words into numbers (TF-IDF), extracting keywords, link patterns, sender info, and frequency of suspicious terms.
+Better features help the model make smarter decisions and reduce wrong predictions.
+Feature engineering = turning raw data into useful signals for the model.
+
