@@ -1,4 +1,5 @@
-# HitPractice
+# HitProject--Assignment Submission by Sudip Chel
+
 
 A practice repository for learning Git, GitHub workflows, and open-source contribution basics.
 
